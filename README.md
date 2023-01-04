@@ -1,4 +1,4 @@
-# my_app
+# Flutter Printer Example
 
 A new Flutter project.
 
